@@ -1,0 +1,13 @@
+# Video files
+*.avi
+*.mp4
+*.mkv
+
+# Audio files
+*.wav
+*.mp3
+
+# Picture files
+*.png
+*.jpg
+*.bmp
